@@ -14,7 +14,7 @@ const Board = (props) => {
 
   return (
     <div className="container ">
-      <table className="table bg-info table-bordered">
+      <table className="table bg-info rounded table-bordered ">
         <thead>
           <tr>
             <th scope="col"></th>
